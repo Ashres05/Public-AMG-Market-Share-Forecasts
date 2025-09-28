@@ -25,4 +25,7 @@
 
 ### 4. Fill in empty SQL strings in adjust_view.py and .sql files within the queries folder.
 
-### 5. Run main on market_share_main.py.
+### 5. On first run, add any necessary adjust_view.py queries to the beginning of main in 
+### market_share_main.py adjust database schema.
+
+### 6. Run main on market_share_main.py.
